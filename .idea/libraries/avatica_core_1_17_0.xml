@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="avatica-core-1.17.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/avatica-core-1.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

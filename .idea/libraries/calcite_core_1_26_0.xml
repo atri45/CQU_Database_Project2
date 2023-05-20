@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="calcite-core-1.26.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/calcite-core-1.26.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
